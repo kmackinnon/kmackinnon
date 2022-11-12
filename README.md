@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keith
 - 👀 I’m interested primarily in back-end development and distributed systems
-- 🌱 I’m currently learning resilient software design
+- 🌱 I enjoy learning about and building resilient software
 - 📫 Visit [my website](https://keithmackinnon.com) to get in touch
 
 <!---
